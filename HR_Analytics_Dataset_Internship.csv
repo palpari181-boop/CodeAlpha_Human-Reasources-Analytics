@@ -1,0 +1,201 @@
+EmployeeID,Department,Gender,Age,Salary,JobRole,SatisfactionScore,PerformanceRating,HireDate,ExitDate,Status
+EMP0001,Operations,Female,37,54256,Operations Executive,3.9,5,02-04-2019,,Active
+EMP0002,HR,Male,27,53657,HR Executive,3,1,15-08-2024,,Active
+EMP0003,Marketing,Female,36,83878,Marketing Manager,2.1,1,25-03-2020,,Active
+EMP0004,Finance,Female,31,53221,Accountant,1.4,4,30-10-2025,,Active
+EMP0005,HR,Female,24,120647,Recruiter,3.1,4,10-01-2022,26-11-2025,Exited
+EMP0006,HR,Female,58,50203,HR Manager,1.3,2,11-03-2024,,Active
+EMP0007,IT,Female,39,84429,BI Developer,4.3,2,23-11-2018,14-12-2019,Exited
+EMP0008,IT,Female,26,104840,BI Developer,1.7,2,26-12-2021,,Active
+EMP0009,Finance,Male,42,135474,Financial Analyst,1.9,1,09-03-2023,,Active
+EMP0010,IT,Male,58,139867,BI Developer,2.3,4,02-07-2022,,Active
+EMP0011,Sales,Female,30,57325,Business Development Executive,3.2,3,18-03-2025,,Active
+EMP0012,Operations,Female,45,53746,Operations Executive,3,1,22-07-2024,,Active
+EMP0013,HR,Male,49,103172,HR Executive,2.5,5,26-03-2019,,Active
+EMP0014,Sales,Male,29,114353,Business Development Executive,4,3,08-12-2023,,Active
+EMP0015,HR,Female,22,119646,HR Manager,2.1,5,17-04-2021,,Active
+EMP0016,Finance,Female,54,104818,Financial Analyst,1.6,2,11-09-2023,10-09-2027,Exited
+EMP0017,Marketing,Female,53,27552,Marketing Executive,4.7,3,13-12-2023,19-10-2027,Exited
+EMP0018,Finance,Male,27,120932,Accountant,4.3,5,26-08-2018,,Active
+EMP0019,Finance,Male,38,94163,Finance Manager,2.7,2,10-06-2019,,Active
+EMP0020,Marketing,Female,47,113039,Marketing Manager,2.5,5,09-03-2026,,Active
+EMP0021,Sales,Male,43,27757,Business Development Executive,3.2,5,11-05-2019,,Active
+EMP0022,Finance,Male,36,33834,Financial Analyst,4.4,1,30-01-2018,,Active
+EMP0023,Marketing,Female,35,95678,Marketing Executive,3.9,5,01-09-2020,,Active
+EMP0024,Marketing,Female,48,49957,Marketing Executive,1.4,4,21-04-2023,,Active
+EMP0025,IT,Male,28,32944,Software Engineer,3.9,1,01-10-2022,,Active
+EMP0026,Finance,Female,30,80296,Financial Analyst,2.1,2,24-02-2020,,Active
+EMP0027,HR,Male,25,110477,HR Manager,4.3,1,21-12-2022,20-07-2026,Exited
+EMP0028,Finance,Female,35,138331,Accountant,4.6,2,13-11-2019,,Active
+EMP0029,Sales,Female,40,80444,Business Development Executive,4.8,5,09-01-2018,02-01-2020,Exited
+EMP0030,Operations,Male,40,53534,Operations Executive,3.3,5,21-01-2026,,Active
+EMP0031,HR,Female,54,145505,HR Manager,1.6,5,08-07-2021,,Active
+EMP0032,HR,Male,37,77923,HR Executive,4.8,5,01-02-2020,,Active
+EMP0033,Finance,Male,48,111163,Finance Manager,3.3,3,29-06-2024,,Active
+EMP0034,IT,Female,37,59814,Software Engineer,1.5,3,16-04-2020,,Active
+EMP0035,Sales,Male,51,106416,Business Development Executive,5,1,19-07-2021,12-06-2022,Exited
+EMP0036,Marketing,Male,44,140456,Marketing Executive,4.5,3,23-05-2020,,Active
+EMP0037,IT,Female,55,26025,BI Developer,4.3,3,09-10-2019,,Active
+EMP0038,Operations,Female,29,141616,Operations Executive,4,2,01-03-2019,29-05-2020,Exited
+EMP0039,IT,Female,35,115111,BI Developer,4.4,5,28-02-2021,,Active
+EMP0040,Sales,Male,49,133704,Sales Manager,1.2,3,25-10-2020,05-08-2021,Exited
+EMP0041,Finance,Female,57,117493,Accountant,3.2,1,22-02-2025,17-07-2026,Exited
+EMP0042,HR,Male,45,101350,HR Manager,1.6,2,01-10-2025,20-04-2029,Exited
+EMP0043,HR,Male,44,52535,HR Manager,2,1,16-06-2021,,Active
+EMP0044,IT,Male,37,138325,Data Analyst,4.9,2,12-04-2024,19-01-2027,Exited
+EMP0045,Sales,Female,48,130150,Business Development Executive,4.5,2,12-04-2018,,Active
+EMP0046,IT,Male,46,139316,Data Analyst,4.4,2,15-10-2019,,Active
+EMP0047,Finance,Male,36,28101,Finance Manager,1.8,3,01-03-2023,,Active
+EMP0048,IT,Female,54,77386,BI Developer,4.9,5,12-10-2018,01-11-2020,Exited
+EMP0049,IT,Female,33,101099,Software Engineer,1.2,5,24-04-2018,,Active
+EMP0050,Sales,Female,49,104457,Business Development Executive,1.5,5,16-11-2021,,Active
+EMP0051,Finance,Female,22,93146,Finance Manager,3.7,2,09-11-2020,,Active
+EMP0052,IT,Female,42,111951,Data Analyst,3.9,3,02-11-2022,,Active
+EMP0053,Marketing,Female,47,116384,SEO Specialist,3.2,2,20-06-2021,,Active
+EMP0054,Sales,Male,58,64446,Sales Manager,3.2,1,16-06-2025,30-09-2029,Exited
+EMP0055,IT,Female,51,82905,Software Engineer,3.7,5,21-03-2021,,Active
+EMP0056,Sales,Female,54,112012,Business Development Executive,3.5,1,27-11-2019,,Active
+EMP0057,Finance,Male,31,28201,Financial Analyst,2,4,18-07-2025,,Active
+EMP0058,Marketing,Male,46,89799,SEO Specialist,2,1,26-10-2018,,Active
+EMP0059,HR,Female,25,98060,HR Executive,4.7,1,08-10-2022,,Active
+EMP0060,Sales,Female,50,105301,Business Development Executive,4.6,4,01-07-2019,25-09-2023,Exited
+EMP0061,Marketing,Female,50,58972,Marketing Executive,4.4,3,01-01-2023,31-08-2027,Exited
+EMP0062,Marketing,Female,50,35155,Marketing Manager,2.1,3,08-06-2023,,Active
+EMP0063,IT,Male,31,55311,Software Engineer,3.8,2,02-08-2021,13-07-2022,Exited
+EMP0064,HR,Female,48,33161,HR Executive,4.3,4,27-08-2022,,Active
+EMP0065,Marketing,Female,52,25772,SEO Specialist,2.2,4,19-10-2025,,Active
+EMP0066,Sales,Male,53,53760,Sales Manager,2.7,1,14-01-2024,,Active
+EMP0067,Sales,Female,32,135166,Sales Manager,4.7,5,08-10-2021,,Active
+EMP0068,Marketing,Male,27,109246,SEO Specialist,1.5,4,21-04-2018,11-02-2022,Exited
+EMP0069,Finance,Female,35,84598,Accountant,2.4,4,25-07-2018,,Active
+EMP0070,IT,Male,52,27540,BI Developer,3.2,3,23-09-2022,,Active
+EMP0071,Finance,Male,23,149467,Financial Analyst,1.8,1,16-04-2025,,Active
+EMP0072,Marketing,Female,29,98920,Marketing Executive,2.9,3,17-09-2019,,Active
+EMP0073,IT,Male,32,65768,Data Analyst,3.3,3,19-11-2019,,Active
+EMP0074,Marketing,Female,34,34961,Marketing Manager,3.8,2,06-08-2025,11-03-2028,Exited
+EMP0075,HR,Male,58,127581,HR Executive,2.4,4,26-10-2025,,Active
+EMP0076,Operations,Female,22,136355,Process Analyst,4.3,1,26-02-2022,,Active
+EMP0077,Sales,Female,31,82080,Sales Executive,3.9,3,23-01-2022,,Active
+EMP0078,Marketing,Female,49,133230,Marketing Manager,3.4,3,14-01-2024,,Active
+EMP0079,Finance,Female,37,123366,Accountant,3.3,4,21-12-2018,,Active
+EMP0080,IT,Female,33,88904,Data Analyst,2.4,3,28-04-2018,,Active
+EMP0081,IT,Female,57,26330,BI Developer,4.8,1,19-02-2021,24-07-2025,Exited
+EMP0082,Finance,Male,52,109659,Finance Manager,3,1,28-01-2026,,Active
+EMP0083,HR,Male,41,112026,HR Manager,2.5,5,20-04-2021,,Active
+EMP0084,Marketing,Female,44,117124,SEO Specialist,2.1,3,09-11-2021,,Active
+EMP0085,Finance,Female,29,122370,Finance Manager,4.8,2,10-05-2019,,Active
+EMP0086,Finance,Female,55,103222,Accountant,4.9,2,05-06-2020,,Active
+EMP0087,IT,Female,22,117801,BI Developer,1.5,1,20-07-2020,,Active
+EMP0088,HR,Male,53,38446,HR Executive,3.3,4,16-03-2024,,Active
+EMP0089,Sales,Male,38,148347,Sales Manager,1.5,1,10-12-2022,,Active
+EMP0090,Sales,Male,31,44555,Business Development Executive,4.8,1,08-07-2023,,Active
+EMP0091,Finance,Female,36,126671,Finance Manager,2.5,4,01-05-2019,,Active
+EMP0092,IT,Male,28,149202,Data Analyst,3.5,3,07-08-2024,21-10-2026,Exited
+EMP0093,Operations,Male,57,34838,Operations Executive,1,4,29-11-2018,,Active
+EMP0094,Operations,Male,36,62762,Operations Manager,2.1,4,29-08-2024,,Active
+EMP0095,HR,Female,34,80723,HR Executive,3.2,2,16-09-2025,,Active
+EMP0096,IT,Male,41,102993,BI Developer,4.3,3,06-08-2019,,Active
+EMP0097,Sales,Female,47,148558,Sales Manager,3,4,25-05-2019,,Active
+EMP0098,Sales,Female,42,104129,Sales Manager,1.1,2,26-11-2018,,Active
+EMP0099,Operations,Male,39,100529,Operations Executive,4.1,2,14-06-2024,,Active
+EMP0100,Sales,Female,33,101720,Sales Manager,3.5,4,27-10-2023,,Active
+EMP0101,HR,Female,42,112835,HR Executive,4.4,3,10-04-2023,,Active
+EMP0102,Sales,Female,57,29809,Sales Manager,1.4,3,12-10-2025,,Active
+EMP0103,IT,Male,56,85552,Software Engineer,1.2,5,20-04-2019,21-01-2022,Exited
+EMP0104,IT,Female,25,51680,Software Engineer,3.2,3,25-12-2024,,Active
+EMP0105,Sales,Male,37,118032,Sales Executive,2.2,1,31-10-2025,,Active
+EMP0106,Marketing,Male,51,149133,Marketing Executive,3.6,2,30-07-2022,,Active
+EMP0107,Sales,Female,48,134408,Sales Manager,4.9,2,14-01-2026,,Active
+EMP0108,Sales,Male,54,122818,Sales Executive,4.5,3,07-03-2024,,Active
+EMP0109,Sales,Female,22,62072,Business Development Executive,2.2,5,24-10-2021,24-02-2025,Exited
+EMP0110,Marketing,Male,50,95592,SEO Specialist,2.4,5,27-05-2025,,Active
+EMP0111,Marketing,Female,34,116422,Marketing Executive,3.3,2,26-03-2022,,Active
+EMP0112,Sales,Female,46,75604,Business Development Executive,4.2,2,28-06-2018,,Active
+EMP0113,Sales,Female,28,139581,Sales Manager,1.4,4,01-06-2018,,Active
+EMP0114,HR,Male,26,86537,Recruiter,2.4,4,07-02-2026,,Active
+EMP0115,Operations,Female,42,107155,Operations Manager,4.5,4,25-11-2018,05-03-2023,Exited
+EMP0116,Marketing,Male,40,54817,Marketing Manager,1.4,1,28-05-2018,,Active
+EMP0117,Operations,Male,41,143413,Operations Executive,1.2,1,23-11-2025,15-11-2028,Exited
+EMP0118,IT,Male,37,94621,Software Engineer,3.3,2,08-01-2022,,Active
+EMP0119,Finance,Female,37,90230,Finance Manager,1.6,4,19-12-2019,,Active
+EMP0120,Operations,Male,51,143123,Process Analyst,3.7,2,06-11-2020,,Active
+EMP0121,HR,Female,49,115480,Recruiter,2.8,3,15-12-2022,28-09-2026,Exited
+EMP0122,Finance,Male,46,99963,Accountant,3.3,3,25-04-2022,28-05-2023,Exited
+EMP0123,HR,Male,58,138386,HR Manager,4.1,1,20-05-2025,,Active
+EMP0124,Marketing,Male,44,53705,Marketing Manager,1.8,3,28-07-2023,01-09-2025,Exited
+EMP0125,Operations,Male,28,143410,Operations Manager,3.6,3,31-01-2026,,Active
+EMP0126,Sales,Male,27,144226,Sales Manager,2.3,4,17-05-2018,,Active
+EMP0127,Finance,Female,55,90771,Accountant,4.3,3,02-04-2020,,Active
+EMP0128,Sales,Female,29,86385,Sales Executive,1.6,2,23-04-2021,,Active
+EMP0129,Operations,Female,57,72942,Operations Executive,4.2,1,14-02-2026,,Active
+EMP0130,IT,Female,38,101619,Software Engineer,4.3,3,07-01-2024,,Active
+EMP0131,HR,Male,57,67992,HR Manager,1.9,1,27-07-2025,,Active
+EMP0132,Operations,Female,29,43320,Operations Executive,4.8,3,17-03-2023,23-05-2025,Exited
+EMP0133,Sales,Male,46,84459,Sales Manager,3.7,5,21-04-2019,,Active
+EMP0134,Sales,Male,48,110841,Sales Executive,4.3,5,02-08-2024,,Active
+EMP0135,Sales,Female,35,83115,Sales Manager,4.8,3,19-02-2021,,Active
+EMP0136,HR,Female,25,77184,Recruiter,1.8,1,09-09-2025,,Active
+EMP0137,Sales,Male,25,128126,Sales Manager,2,2,11-01-2019,,Active
+EMP0138,Marketing,Male,35,131568,Marketing Executive,2.3,2,20-04-2020,,Active
+EMP0139,Marketing,Male,30,95807,SEO Specialist,4.2,1,12-01-2018,,Active
+EMP0140,Operations,Female,37,102182,Process Analyst,1.1,3,16-04-2018,,Active
+EMP0141,HR,Male,26,87422,Recruiter,4.1,5,04-06-2019,,Active
+EMP0142,Marketing,Male,24,120321,Marketing Manager,3.1,4,23-03-2019,,Active
+EMP0143,Operations,Female,47,80872,Operations Manager,1.4,4,08-05-2018,,Active
+EMP0144,HR,Male,26,41540,Recruiter,3.5,5,27-11-2018,,Active
+EMP0145,Marketing,Female,51,91263,Marketing Manager,2.7,1,26-12-2025,,Active
+EMP0146,Operations,Male,49,84186,Operations Executive,2.7,4,20-04-2025,19-11-2028,Exited
+EMP0147,Sales,Female,49,65963,Business Development Executive,2,2,31-08-2022,,Active
+EMP0148,Operations,Male,27,81606,Operations Executive,4,3,27-04-2023,,Active
+EMP0149,Finance,Female,29,78845,Accountant,4.5,4,28-03-2024,,Active
+EMP0150,Operations,Female,44,38579,Operations Manager,3,2,30-07-2018,08-06-2022,Exited
+EMP0151,Operations,Male,44,135804,Operations Manager,2.5,3,30-05-2023,,Active
+EMP0152,Marketing,Male,39,28794,Marketing Executive,2.1,3,15-07-2020,04-03-2024,Exited
+EMP0153,IT,Male,58,111159,Software Engineer,1.3,1,08-12-2021,,Active
+EMP0154,HR,Female,51,69681,HR Executive,2.5,3,13-12-2023,,Active
+EMP0155,Marketing,Male,31,45632,Marketing Manager,1.2,1,08-09-2024,,Active
+EMP0156,IT,Female,50,79287,Software Engineer,1.9,5,20-12-2022,,Active
+EMP0157,HR,Female,53,94066,HR Manager,2.2,2,14-11-2021,,Active
+EMP0158,Sales,Male,41,148905,Sales Executive,4.1,3,20-09-2024,,Active
+EMP0159,IT,Female,49,48028,Data Analyst,2.5,2,05-09-2021,,Active
+EMP0160,Marketing,Male,47,137953,Marketing Manager,1.2,1,07-04-2024,29-09-2026,Exited
+EMP0161,Sales,Female,58,78008,Business Development Executive,3.6,3,15-11-2018,05-08-2022,Exited
+EMP0162,HR,Female,32,130030,HR Manager,2.8,3,18-07-2022,,Active
+EMP0163,HR,Female,47,93676,HR Executive,2.6,3,24-11-2022,02-10-2024,Exited
+EMP0164,Operations,Male,26,91910,Operations Manager,1.5,5,22-10-2021,,Active
+EMP0165,Finance,Male,37,38474,Financial Analyst,2,2,02-12-2021,,Active
+EMP0166,Marketing,Male,33,149687,Marketing Manager,3,5,19-09-2019,,Active
+EMP0167,Marketing,Female,42,44786,SEO Specialist,1.3,4,13-01-2023,,Active
+EMP0168,Operations,Male,44,91497,Operations Executive,2.2,4,25-05-2021,,Active
+EMP0169,HR,Female,26,109497,HR Executive,3.5,5,22-08-2018,,Active
+EMP0170,Sales,Male,50,144150,Business Development Executive,3.6,3,11-03-2023,,Active
+EMP0171,Marketing,Male,50,38566,SEO Specialist,4.9,1,03-05-2023,,Active
+EMP0172,Marketing,Male,50,82595,Marketing Manager,3.1,2,31-03-2025,,Active
+EMP0173,IT,Female,43,113984,BI Developer,1.2,3,08-03-2022,05-11-2024,Exited
+EMP0174,HR,Female,40,58029,HR Manager,4.4,5,12-09-2021,,Active
+EMP0175,Finance,Male,44,65662,Finance Manager,3.8,4,27-09-2021,,Active
+EMP0176,Finance,Male,41,98259,Accountant,3.6,3,03-09-2024,,Active
+EMP0177,Finance,Male,49,91648,Accountant,1.1,3,07-07-2025,,Active
+EMP0178,Finance,Female,34,54693,Financial Analyst,1.6,3,27-05-2020,,Active
+EMP0179,HR,Male,43,139870,HR Manager,1.5,4,11-09-2023,,Active
+EMP0180,Finance,Male,50,30726,Accountant,2.5,2,27-10-2019,,Active
+EMP0181,Sales,Female,36,94993,Sales Executive,2.2,4,05-11-2024,,Active
+EMP0182,Finance,Female,51,125851,Accountant,4.1,5,15-02-2022,,Active
+EMP0183,Marketing,Male,38,31839,Marketing Manager,2.9,3,11-09-2022,21-04-2024,Exited
+EMP0184,Marketing,Male,40,35993,Marketing Executive,2.1,5,25-02-2019,,Active
+EMP0185,Finance,Male,50,140950,Accountant,4.7,4,27-11-2022,,Active
+EMP0186,HR,Male,46,35696,Recruiter,1.9,3,12-06-2022,,Active
+EMP0187,HR,Male,30,30020,Recruiter,4.7,4,06-01-2026,,Active
+EMP0188,Operations,Female,50,105654,Operations Executive,4.6,1,23-07-2019,,Active
+EMP0189,IT,Female,29,126734,Software Engineer,2,1,02-06-2020,27-12-2023,Exited
+EMP0190,HR,Female,26,39530,Recruiter,3.4,1,03-09-2020,,Active
+EMP0191,Operations,Male,40,81261,Operations Executive,3.5,2,12-10-2023,,Active
+EMP0192,Marketing,Male,55,72265,Marketing Executive,4.8,5,03-09-2022,,Active
+EMP0193,Marketing,Female,52,30706,Marketing Manager,2.5,3,11-09-2023,,Active
+EMP0194,IT,Male,44,56604,BI Developer,3.6,1,08-03-2018,,Active
+EMP0195,Marketing,Female,56,69374,Marketing Manager,1.7,4,23-09-2021,,Active
+EMP0196,Operations,Male,26,118853,Process Analyst,1.1,2,15-05-2023,,Active
+EMP0197,HR,Female,54,77196,HR Manager,2.9,1,28-03-2020,02-07-2022,Exited
+EMP0198,Operations,Male,43,60811,Operations Executive,4.2,4,22-02-2020,,Active
+EMP0199,Sales,Female,33,90038,Business Development Executive,3,5,07-12-2022,04-08-2025,Exited
+EMP0200,IT,Male,49,103964,Data Analyst,3.2,3,05-12-2018,,Active
